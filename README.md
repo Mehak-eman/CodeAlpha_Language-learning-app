@@ -19,7 +19,7 @@ This project fulfills the following brief:
 ![Home Screen](assets/screenshots/homee.jpeg)
 
 ### Profile Screen
-![Profile Screen](assets/screenshots/progress.jpeg)
+![Progress Screen](assets/screenshots/progress.jpeg)
 
 ## ✨ Features
 
