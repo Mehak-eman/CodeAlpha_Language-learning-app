@@ -12,13 +12,14 @@ This project fulfills the following brief:
 - ✅ Learning data synced using Firebase (see [Local-only mode](#-local-only-mode-optional) below for an offline-first alternative)
 
 ---
-## 📱 Screenshots
+### Login Screen
+![Login Screen](assets/screenshots/loginn.jpeg)
 
-<p align="center">
-  <img src="assets/screenshots/loginn.jpeg" width="220" alt="Login Screen">
-  <img src="assets/screenshots/progress.jpeg" width="220" alt="Language Selection">
-  <img src="assets/screenshots/homee.jpeg" width="220" alt="Home Screen">
-</p>
+### Home Screen
+![Home Screen](assets/screenshots/homee.jpeg)
+
+### Profile Screen
+![Profile Screen](assets/screenshots/progress.jpeg)
 
 ## ✨ Features
 
